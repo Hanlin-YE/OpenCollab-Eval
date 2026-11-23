@@ -8,6 +8,7 @@
 
 | 阅读目标 | 文档 |
 | --- | --- |
+| 将 SOL 修订结果写入优化器记忆 | [SIM 反馈](sim-feedback.md) |
 | 复现服务器评测方案 | [评测方案](evaluation-suite.md) |
 | 安装软件包并运行第一条本地命令 | [快速入门](getting-started.md) |
 | 准备数据集或通用任务 JSONL | [任务格式](task-formats.md) |

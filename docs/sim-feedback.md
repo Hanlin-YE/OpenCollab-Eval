@@ -1,5 +1,7 @@
 # Replay SOL feedback into self-improvement memory
 
+**English** | [简体中文](zh-CN/sim-feedback.md)
+
 Run the evaluator on a trusted local SOL campaign after collecting official results.
 
 ```bash

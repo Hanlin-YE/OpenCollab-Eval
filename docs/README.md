@@ -9,6 +9,7 @@ design, and test records document the implementation behind those guides.
 
 | Reader goal | Document |
 | --- | --- |
+| Replay SOL revisions into optimizer memory | [SIM feedback](sim-feedback.md) |
 | Reproduce the server-local evaluation setup | [Evaluation suite](evaluation-suite.md) |
 | Install the package and run the first local command | [Getting started](getting-started.md) |
 | Prepare dataset or generic task JSONL | [Task formats](task-formats.md) |
